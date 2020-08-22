@@ -20,3 +20,11 @@ p {
 .img-small {
   width: 180px;
 }
+
+.google-button{
+  margin-bottom: 20px;
+}
+
+.google-redirec-link{ 
+  font-size: 16px;
+}
